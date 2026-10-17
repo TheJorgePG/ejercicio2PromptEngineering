@@ -1,0 +1,101 @@
+Id,SentimientoGeneral,AspectosPositivos,AspectosNegativos,Dificultad,Recomendado
+0,Negativo,['Diseño general del juego'],['Ninguno destacado'],Equilibrado,Recomendado
+1,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,Recomendado
+2,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,No recomendado
+3,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,No recomendado
+4,Negativo,['Historia y narrativa'],['Ninguno destacado'],Difícil,No recomendado
+5,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Mecánicas de control'],Difícil,No recomendado
+6,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Difícil,Recomendado
+7,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Mecánicas de control'],Difícil,No recomendado
+8,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,Recomendado
+9,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,Recomendado
+10,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Difícil,Recomendado
+11,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+12,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+13,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Difícil,Recomendado
+14,Negativo,['Historia y narrativa'],['Mecánicas de control'],Difícil,Recomendado
+15,Negativo,['Apartado visual y rendimiento'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+16,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Ninguno destacado'],Difícil,Recomendado
+17,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Difícil,No recomendado
+18,Negativo,['Historia y narrativa'],['Mecánicas de control'],Difícil,No recomendado
+19,Negativo,['Historia y narrativa'],['Mecánicas de control'],Difícil,No recomendado
+20,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+21,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+22,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+23,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+24,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,No recomendado
+25,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,No recomendado
+26,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,No recomendado
+27,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+28,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+29,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+30,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Mecánicas de control'],Difícil,Recomendado
+31,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Difícil,Recomendado
+32,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,No recomendado
+33,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+34,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+35,Negativo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+36,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+37,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,Recomendado
+38,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,Recomendado
+39,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+40,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+41,Positivo,['Apartado visual y rendimiento'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,No recomendado
+42,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Difícil,No recomendado
+43,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+44,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,Recomendado
+45,Negativo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+46,Negativo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+47,Negativo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+48,Negativo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+49,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,No recomendado
+50,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,Recomendado
+51,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+52,Positivo,['Historia y narrativa'],['Ninguno destacado'],Equilibrado,No recomendado
+53,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,No recomendado
+54,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,No recomendado
+55,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,No recomendado
+56,Negativo,['Historia y narrativa'],['Ninguno destacado'],Equilibrado,No recomendado
+57,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,No recomendado
+58,Negativo,['Apartado visual y rendimiento'],['Ninguno destacado'],Equilibrado,No recomendado
+59,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Difícil,No recomendado
+60,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,No recomendado
+61,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,No recomendado
+62,Negativo,['Apartado visual y rendimiento'],['Ninguno destacado'],Difícil,No recomendado
+63,Negativo,['Diseño general del juego'],['Bugs y problemas técnicos'],Equilibrado,No recomendado
+64,Positivo,['Historia y narrativa'],['Ninguno destacado'],Equilibrado,Recomendado
+65,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Ninguno destacado'],Difícil,Recomendado
+66,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+67,Negativo,['Historia y narrativa'],['Ninguno destacado'],Equilibrado,No recomendado
+68,Negativo,['Historia y narrativa'],['Ninguno destacado'],Equilibrado,No recomendado
+69,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Ninguno destacado'],Difícil,No recomendado
+70,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Ninguno destacado'],Difícil,No recomendado
+71,Negativo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+72,Negativo,['Apartado visual y rendimiento'],['Bugs y problemas técnicos'],Equilibrado,No recomendado
+73,Negativo,['Apartado visual y rendimiento'],['Bugs y problemas técnicos'],Equilibrado,No recomendado
+74,Negativo,['Historia y narrativa'],['Bugs y problemas técnicos'],Difícil,No recomendado
+75,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+76,Negativo,['Historia y narrativa'],['Mecánicas de control'],Equilibrado,No recomendado
+77,Positivo,['Apartado visual y rendimiento'],['Mecánicas de control'],Difícil,Recomendado
+78,Negativo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,Recomendado
+79,Negativo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,Recomendado
+80,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']",['Bugs y problemas técnicos'],Equilibrado,No recomendado
+81,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,Recomendado
+82,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+83,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,No recomendado
+84,Negativo,['Historia y narrativa'],['Bugs y problemas técnicos'],Equilibrado,Recomendado
+85,Negativo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,No recomendado
+86,Negativo,['Historia y narrativa'],['Bugs y problemas técnicos'],Difícil,No recomendado
+87,Negativo,['Apartado visual y rendimiento'],['Ninguno destacado'],Equilibrado,No recomendado
+88,Positivo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+89,Negativo,['Apartado visual y rendimiento'],['Ninguno destacado'],Difícil,No recomendado
+90,Negativo,['Historia y narrativa'],['Mecánicas de control'],Equilibrado,No recomendado
+91,Negativo,['Historia y narrativa'],['Mecánicas de control'],Equilibrado,No recomendado
+92,Negativo,['Historia y narrativa'],['Mecánicas de control'],Equilibrado,No recomendado
+93,Positivo,['Apartado visual y rendimiento'],['Bugs y problemas técnicos'],Difícil,Recomendado
+94,Negativo,['Historia y narrativa'],['Bugs y problemas técnicos'],Equilibrado,No recomendado
+95,Positivo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+96,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Difícil,Recomendado
+97,Negativo,['Historia y narrativa'],"['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,Recomendado
+98,Negativo,['Historia y narrativa'],['Ninguno destacado'],Equilibrado,No recomendado
+99,Negativo,"['Apartado visual y rendimiento', 'Historia y narrativa']","['Bugs y problemas técnicos', 'Mecánicas de control']",Equilibrado,No recomendado
